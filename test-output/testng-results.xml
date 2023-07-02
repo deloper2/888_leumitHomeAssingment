@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-30T18:29:08 IDT" name="Default suite" finished-at="2023-06-30T18:29:38 IDT" duration-ms="29843">
+    <groups>
+    </groups>
+    <test started-at="2023-06-30T18:29:08 IDT" name="Default test" finished-at="2023-06-30T18:29:38 IDT" duration-ms="29843">
+      <class name="tests.NavPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.NavPageTest@460510aa]" started-at="2023-06-30T18:29:08 IDT" name="setup" finished-at="2023-06-30T18:29:15 IDT" duration-ms="7033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tc01_printAllLang()[pri:0, instance:tests.NavPageTest@460510aa]" started-at="2023-06-30T18:29:15 IDT" name="tc01_printAllLang" description="printLangToConsole" finished-at="2023-06-30T18:29:18 IDT" duration-ms="2602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01_printAllLang -->
+        <test-method signature="tc02_selectEachLangAndValidate()[pri:0, instance:tests.NavPageTest@460510aa]" started-at="2023-06-30T18:29:18 IDT" name="tc02_selectEachLangAndValidate" description="langValidation" finished-at="2023-06-30T18:29:38 IDT" duration-ms="19483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02_selectEachLangAndValidate -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.NavPageTest@460510aa]" started-at="2023-06-30T18:29:38 IDT" name="tearDown" finished-at="2023-06-30T18:29:38 IDT" duration-ms="364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.NavPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,5 @@
+utils/Utils.class
+tests/NavPageTest.class
+tests/BaseTest.class
+pageobjects/BasePage.class
+pageobjects/NavPage.class
